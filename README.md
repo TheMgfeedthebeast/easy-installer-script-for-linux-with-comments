@@ -4,3 +4,4 @@ this is a python linux installer you can modify it and everything its configured
 #do not delete theese lines you can use this program for what you want so long its not maliscius
 #this code is not copyrighted but credit me if you use it 
 #thanks for using my code (:
+#if you have anything to add then create your own branch and of course keep this file and DO NOT modify it
